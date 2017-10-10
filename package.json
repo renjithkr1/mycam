@@ -1,0 +1,18 @@
+{
+  "name": "my-webcam",
+  "version": "1.0.0",
+  "description": "Angularjs directive for accessing webcam and microphone",
+  "main": "index.js",
+  "scripts": {
+    "live": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranjith K R",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+}
